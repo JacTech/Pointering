@@ -1,7 +1,7 @@
 Pointering
 A Smarthome controlling Ring
 
-<h1>!!! Work in Progress !!!<sub>
+<h1>!!! Work in Progress !!!<sup>
 
 This is not a finished project; I'm still working on it and haven't tested anything so far.
 
