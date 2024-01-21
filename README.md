@@ -1,13 +1,14 @@
 Pointering
 A Smarthome controlling Ring
 
-<h1>!!! Work in Progress !!!<h6>
+<h1>!!! Work in Progress !!!<h5>
 
 This is not a finished project; I'm still working on it and haven't tested anything so far.
 
 
 The Pointering is a ring with which you can point at lights in your room and make gestures to turn them ON or OFF or even dim them. 
 The ring uses an ESP32-C3FH4 as its processor and has an ICM-20948 IMU for determining the direction you're pointing and the gestures you're making. 
+
 The ring also comes with an APA102-2020 for indicating different things, a built-in EEPROM for storing WiFi settings and other information, a battery charging/protection circuit, and a power latch circuit to make it as energy-efficient as possible. 
 I'm planning to use a 50mAh 10mm x 12mm x 5mm battery.
 
