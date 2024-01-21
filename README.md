@@ -1,8 +1,8 @@
 Pointering, a Smarthome controlling Ring
 
-<h1>!!! Work in Progress !!!<h6>
+<h1>!!! Work in Progress !!!<h4>
 
-This is not a finished project, I'm still working on it and haven't tested anything so far.
+This is not a finished project, I'm still working on it and haven't tested anything so far.<h6>
 
 
 The Pointering is a ring with which you can point at lights in your room and make gestures to turn them ON or OFF or even dim them. 
