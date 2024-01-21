@@ -1,5 +1,4 @@
-Pointering
-A Smarthome controlling Ring
+Pointering, a Smarthome controlling Ring
 
 <h1>!!! Work in Progress !!!<h6>
 
