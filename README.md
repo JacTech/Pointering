@@ -10,6 +10,8 @@ The ring uses an ESP32-C3FH4 as its processor and has an ICM-20948 IMU for deter
 The ring also comes with an APA102-2020 for indicating different things, a built-in EEPROM for storing WiFi settings and other information, a battery charging/protection circuit, and a power latch circuit to make it as energy-efficient as possible. 
 I'm planning to use a 50mAh 10mm x 12mm x 5mm battery.
 
+<img src="https://github.com/JacTech/Pointering/assets/90476032/5cad6eaf-0042-433d-8b2b-80475bfdc6a0" width=50% height=50%>
+
 The Basestation features an ESP8266, which the ESP32 C3 connects to via ESP-NOW to send its data to the station. The station then sends it to an MQTT broker, a KNX bus, or anything you can program :) 
 Other features of the Basestation include:
 - NRF24l01, mainly for my smarthome, which has WiFi and RF (if the WiFi fails).
@@ -22,5 +24,3 @@ Other features of the Basestation include:
 
 
   <img src="https://github.com/JacTech/Pointering/assets/90476032/34abfa28-d0e4-4daf-9e21-173cf1aaa179" width=50% height=50%>
-![image](https://github.com/JacTech/Pointering/assets/90476032/34abfa28-d0e4-4daf-9e21-173cf1aaa179)
-![image](https://github.com/JacTech/Pointering/assets/90476032/5cad6eaf-0042-433d-8b2b-80475bfdc6a0)
