@@ -12,7 +12,7 @@ I'm planning to use a 50mAh 10mm x 12mm x 5mm battery.
 
 <img src="https://github.com/JacTech/Pointering/assets/90476032/5cad6eaf-0042-433d-8b2b-80475bfdc6a0" width=50% height=50%>
 
-*the PCB in this picture is a earlyer version with the same dimensions as V1.0
+<sup>*the PCB in this picture is a earlyer version with the same dimensions as V1.0
 
 
 
