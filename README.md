@@ -19,5 +19,8 @@ Other features of the Basestation include:
 - CH340 to program the ESP8266 and a switch to choose between programming the ESP8266 or the ESP32 C3.
 - An Ampere sensor to detect shorts on the contact pins and measure the charging current. When a short gets detected, a MOSFET will cut the charging pins from the voltage.
   (This is mainly because I had problems with this kind of connector in the past, where the pins weren't all aligned correctly and shorted).
+
+
+  <img src="https://github.com/JacTech/Pointering/assets/90476032/34abfa28-d0e4-4daf-9e21-173cf1aaa179" width=50% height=50%>
 ![image](https://github.com/JacTech/Pointering/assets/90476032/34abfa28-d0e4-4daf-9e21-173cf1aaa179)
 ![image](https://github.com/JacTech/Pointering/assets/90476032/5cad6eaf-0042-433d-8b2b-80475bfdc6a0)
