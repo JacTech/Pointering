@@ -27,3 +27,8 @@ Other features of the Basestation include:
 
 
   <img src="https://github.com/JacTech/Pointering/assets/90476032/34abfa28-d0e4-4daf-9e21-173cf1aaa179" width=50% height=50%>
+
+
+Some other random ideas:
+- Combining it with a mmWave sensor like the Everything Presence Lite to make more accurate assumptions on where youre pointing based on your position in the room
+- Multiple Basestations for multiple rooms. Depending on how good the connection between Ting and Basestation is you could have a Basestation in each room. The ring just conects to the closest one, so you could have different sets of lights on each Station
