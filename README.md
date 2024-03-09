@@ -3,7 +3,9 @@ Pointering, a Smarthome controlling Ring
 <h1>!!! Work in Progress !!!
 
 <h4>This is not a finished project, I'm still working on it and haven't tested anything so far.
+  
 UPDATE: 
+
 - V4.1 is the first version i ordered
 - V4.1 After some soldering it seems everything accept for the antenna works <h6>
 
