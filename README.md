@@ -2,7 +2,7 @@ Pointering, a Smarthome controlling Ring
 
 <h1>!!! Work in Progress !!!
 
-<h4>This is not a finished project, I'm still working on it and haven't tested anything so far.
+<h4>This is not a finished project, I'm still working on it.
   
 UPDATE: 
 
