@@ -6,8 +6,7 @@ Pointering, a Smarthome controlling Ring
   
 UPDATE: 
 
-- V4.1 is the first version i ordered
-- V4.1 After some soldering it seems everything accept for the antenna works
+- V4.1 is the first version i ordered and after some soldering it seems everything accept for the antenna works fine
 
 <h6>
 
