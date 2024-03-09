@@ -7,8 +7,9 @@ Pointering, a Smarthome controlling Ring
 UPDATE: 
 
 - V4.1 is the first version i ordered
-- V4.1 After some soldering it seems everything accept for the antenna works <h6>
+- V4.1 After some soldering it seems everything accept for the antenna works
 
+<h6>
 
 The Pointering is a ring with which you can point at lights in your room and make gestures to turn them ON or OFF or even dim them. 
 The ring uses an ESP32-C3FH4 as its processor and has an ICM-20948 IMU for determining the direction you're pointing and the gestures you're making. 
