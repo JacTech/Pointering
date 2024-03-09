@@ -19,7 +19,7 @@ I'm planning to use a 50mAh 10mm x 12mm x 5mm battery.
 
 <img src="https://github.com/JacTech/Pointering/assets/90476032/5cad6eaf-0042-433d-8b2b-80475bfdc6a0" width=50% height=50%>
 
-<sup>*the PCB in this picture is a earlyer version with the same dimensions as V1.0
+<sup>*the PCB in this picture is a earlyer version with the same dimensions as V1.0 and V4.1
 
 The Basestation features an ESP8266, which the ESP32 C3 connects to via ESP-NOW to send its data to the station. The station then sends it to an MQTT broker, a KNX bus, or anything you can program :) 
 Other features of the Basestation include:
